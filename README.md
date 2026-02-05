@@ -1,4 +1,4 @@
-# 👨🏻‍🦰 José Marcos
+# 🖥️ José Marcos
 
 **`Estudante Java-Backend|SpringBoot`**
 
